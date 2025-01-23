@@ -10,7 +10,8 @@
 - a leer y usar la documentacion
 - cree una app que crea el nombre de una banda de musica segun datos 
 
-##Notas adicionales
+##Resumen del dia
+aprendi a usar la funcion print e imput ademas de manipular sring dentro de la funcion print y darle nombre a las variables.
 
 ##enlace al proyecto del dia 
 - [Dia_01/task.py](https://github.com/leonukeg/100_days_of_code/blob/master/Dia_01/task.py)
