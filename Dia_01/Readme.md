@@ -11,3 +11,6 @@
 - cree una app que crea el nombre de una banda de musica segun datos 
 
 ##Notas adicionales
+
+##enlace al proyecto del dia 
+- [Dia_01/task.py](https://github.com/leonukeg/100_days_of_code/blob/master/Dia_01/task.py)
