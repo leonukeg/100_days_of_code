@@ -7,6 +7,6 @@ https://www.udemy.com/course/100-days-of-code
 
 
 ## Progreso Diario
-- [Dia1] (100_days_of_code/DIa1/) inicio del curso y generador de nombres para banda  
+- [Dia1] ([100_days_of_code/DIa1/](https://github.com/leonukeg/100_days_of_code/tree/master/DIa1)) inicio del curso y generador de nombres para banda  
 
 :construction: Proyecto en construcción :construction:
