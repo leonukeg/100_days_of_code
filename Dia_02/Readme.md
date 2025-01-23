@@ -10,6 +10,7 @@
 
 ##Proyecto##
 calculadora de propinas
+https://github.com/leonukeg/100_days_of_code/blob/master/Dia_02/index.py
 
 ## Notas adicionales
 - 
